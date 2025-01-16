@@ -36,3 +36,18 @@
     color: #116feb;
     margin-right: 14px;
 }
+
+.meus-filmes img{
+    width: 200px;
+    transition: all 1s;
+    object-fit: contain;
+}
+
+.meus-filmes h3{
+    font-size: 18px;
+}
+
+ .container{
+    display: flex;
+    flex-direction: column;
+ }
